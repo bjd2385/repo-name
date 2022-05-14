@@ -3,7 +3,7 @@ repository:
   description: description of repo
   homepage: https://example.github.io/
   topics: github, probot
-  private: true
+  private: false
   has_issues: true
   has_projects: true
   has_wiki: false
