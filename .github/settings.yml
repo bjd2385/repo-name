@@ -1,6 +1,6 @@
 repository:
-  name: repo-name
-  description: description of repo
+  name: .github
+  description: Base .github/settings.yml for my repositories to reference
   homepage: https://example.github.io/
   topics: github, probot
   private: false
